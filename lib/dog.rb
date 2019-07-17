@@ -5,3 +5,4 @@ class Dog
 end
 
 snoopy = Dog.new 
+snoopy.bark
