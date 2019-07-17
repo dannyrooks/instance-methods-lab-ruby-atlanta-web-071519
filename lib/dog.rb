@@ -13,6 +13,6 @@ snoopy = Dog.new
 snoopy.bark
 snoopy.sit
   
-  
+
   
   
